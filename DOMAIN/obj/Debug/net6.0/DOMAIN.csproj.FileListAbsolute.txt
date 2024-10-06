@@ -1,0 +1,12 @@
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\bin\Debug\net6.0\DOMAIN.deps.json
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\bin\Debug\net6.0\DOMAIN.dll
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\bin\Debug\net6.0\DOMAIN.pdb
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.AssemblyInfoInputs.cache
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.AssemblyInfo.cs
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.dll
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\refint\DOMAIN.dll
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\DOMAIN.pdb
+C:\Users\jgsco\RiderProjects\DDD\DOMAIN\obj\Debug\net6.0\ref\DOMAIN.dll
